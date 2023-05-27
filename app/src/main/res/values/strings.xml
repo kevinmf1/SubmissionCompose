@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SubmissionCompose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="empty_favorite">Tidak ada list favorite.</string>
+    <string name="search_text">Masukan pemain yang ingin dicari</string>
+    <string name="about_me">Tentang saya</string>
+    <string name="back">Back</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="delete_favorite">Remove from Favorite</string>
+    <string name="add_favorite">Add to Favorite</string>
+    <string name="empty_data">Data Kosong</string>
+
+    <string name="title_home">Home</string>
+    <string name="email_author">kevinmalikfajar10@gmail.com</string>
+    <string name="name_author">Kevin Malik Fajar</string>
+</resources>
